@@ -25,7 +25,7 @@ void main(void){
         mediaLinhas[i] = soma / (float)C;
     }
 
-    printf("\nMédia aritmética de cada l:\n");
+    printf("\nMÃ©dia aritmÃ©tica de cada l:\n");
     for ( i = 0; i < L; i++) {
         printf("l %d: %.2f\n", i + 1, mediaLinhas[i]);
     }
